@@ -1,6 +1,8 @@
 # Tuya Prueba German
 
 Realizacion de proyecto con Clean / Architectrure Clean y **Arquitectura Onion**
+![onion arquitec](https://user-images.githubusercontent.com/3777303/155810881-98d94568-845b-474a-9338-106efaf9de77.PNG)
+
 Patrones de Diseño implementados:
 
 •	Repositorio
@@ -22,6 +24,8 @@ Se desarrollo en:
 •	Manejo de Base de Datos 
 
 Se Realizaron los siguientes entidades/Tablas
+
+![Tuya](https://user-images.githubusercontent.com/3777303/155810877-4b296341-ffe1-4139-9034-f4aeb7e4dcc7.PNG)
 
 Producto
 
