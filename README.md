@@ -81,3 +81,5 @@ Aquí están las credenciales para los usuarios predeterminados.
 Correo electrónico - superadmin@gmail.com / Contraseña - 123Pa$$word!
 
 Correo electrónico - basic@gmail.com / Contraseña - 123Pa$$word!
+
+Por temas del tiempo no se realizaron los proyectos de TEST!!
